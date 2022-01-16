@@ -25,7 +25,7 @@ SECRET_KEY = 'osas7hllonwl8u494ty_xx-jicfpjzwtzxi=#z!*myd-6pxyu*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['guarded-depths-27057.herokuapp.com']
+ALLOWED_HOSTS = ['stormy-reaches-65789.herokuapp.com']
 
 
 # Application definition
